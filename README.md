@@ -29,20 +29,21 @@ Users can reserve seats, view ticket prices, check sold tickets, and see the upd
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Theatre_Ticketing_System.git
+   ```
+2. Open up the file:
+   ```bash
    cd Theatre_Ticketing_System
-``
-
-2. Compile the program:
+   ```
+3. Compile the program:
 
    ```bash
    g++ main.cpp -o Theatre_Ticketing_System
    ```
-3. Run the executable:
+4. Run the executable:
 
    ```bash
    ./Theatre_Ticketing_System
    ```
-
 ---
 
 ## 📸 Sample Output
